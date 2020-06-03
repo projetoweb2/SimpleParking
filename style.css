@@ -1,0 +1,66 @@
+body { 
+	background: linear-gradient( #DCDCDC, #DCDCDC);
+
+}
+
+img { 
+	border-radius: 50%;
+	text-align: center;
+	 }
+
+h2 {
+	color: #363636;
+	font-size: 40px;
+	text-align: center;
+	font-weight: bold;
+}
+
+small {
+	font-size: 20px;
+}
+
+tbody {
+	color: #696969;
+	 
+	font-weight: bold;
+}
+
+.banner {
+	position: relative;
+	text-align: center;
+} 
+
+#image {
+	
+	
+	border-radius: 0px;
+	height: 300px;
+	max-width: 90%;
+	text-align: center;
+	justify-content: center;
+	/*-webkit-filter: blur(5px);
+    -moz-filter: blur(5px);
+    -o-filter: blur(5px);
+    -ms-filter: blur(5px);
+    filter: blur(5px);*/
+}
+
+#texto {
+	position: absolute;
+	font-size: 32px;
+	left: 250px;
+	top: 325px;
+}
+
+#tabela {
+	box-shadow: 8px 8px 8px #696969;
+}
+
+.rodape {
+	text-align: center;
+}
+
+.rodape a {
+	text-decoration: none;
+}
+
